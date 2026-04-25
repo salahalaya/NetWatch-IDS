@@ -175,5 +175,5 @@ Reason: {message}
 # =========================
 
 if __name__ == "__main__":
-    print("STARTED\n")
+    print("NETWATCH IDS STARTED\n")
     sniff(prn=process_packet, store=False)
