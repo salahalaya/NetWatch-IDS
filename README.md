@@ -281,11 +281,7 @@ netwatch-ids/
 ├── README.md            # This file
 ├── requirements.txt     # Python dependencies
 ├── LICENSE             # MIT License
-├── .gitignore          # Git ignore rules
-└── examples/
-    ├── config.example.py
-    └── systemd/
-        └── netwatch.service
+
 ```
 
 ## Deployment
